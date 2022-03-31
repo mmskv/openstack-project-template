@@ -1,0 +1,5 @@
+#cloud-config
+ssh_authorized_keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINUHqi3ImrU3ooguKPa0l/nWnNB3Q5iGo4VWhv5UpUN7 admin1
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINsaeNbK8Kohimt/LlmotxA8EBQwGuSOWYwpuV7CVK+v admin2
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILscp6ZDr3OQ9RzZKVJt2ggKc/s6y3wZhVqhQ0tkuoFW admin3
